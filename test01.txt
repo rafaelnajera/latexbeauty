@@ -1,0 +1,191 @@
+\chapter{Before Aristotle}
+
+In this chapter I study the notion of \scientia\ in the 11\th\ and early 12\th\ 
+centuries, before the translation of the works of Aristotle. The most important 
+intellectual development in this time period is the rise of theology as a 
+discipline that incorporates the intellectual tools of logic and dialectics. 
+We can consider the publication and subsequent generalized adoption of the 
+\worktitle{Sentences} of Peter Lombard in the 1150s as the culmination of this 
+process. The first section describes this process mostly in historical terms, 
+providing thus the background for the study in later sections of the actual 
+philosophical content of texts by the main figures of the period: Abelard and 
+Hugh of St. Victor.
+
+\section{The Rise of Theology}
+
+\subsection{Early Developments}
+
+The word \lw{theologia}, theology, was not really used in the Latin world 
+before Abelard. We saw in the previous chapter that \Boethius\ did use it as the 
+simple transliteration of the Aristotelian term \gw{θεολογία}, which 
+refers not to the study of God, the Christian one or any other, but to the most 
+general features of being. However, thinkers of the late 11\th\ and early 12\th\ 
+centuries seem to have not paid attention to this text. Whatever study they did 
+on the basic notions and intellectual issues regarding their faith was usually 
+termed \lw{pagina sacra}, for they generally considered the knowledge of 
+faith to be a knowledge of the Scriptures, even if, like \Augustine, they
+engaged in rational discourse and argumentation. Present day scholars like to 
+present the story of the rise of theology as a shift from interpretation of 
+texts to rational systematization of the doctrine, the last step being 
+accomplished clearly by Lombard and subsequently refined and worked out by 
+commentaries to the \worktitle{Sentences} or modified in works like Aquinas' 
+\worktitle{Summa theologica}.%
+   \footnote{This section is based mainly in the presentation by one of such 
+   present day scholars: \cite{rosemann}. The general narrative has not changed 
+   in the scholarship of the past century as Rosemann bases his work in early to
+   mid 20\th\ century works by Grabmann, Ghellink and Chenu.}
+
+The seeds of this move towards rationalization and systematization are already 
+present in the Scriptures. The foundational book, the Bible, is not a treatise, 
+of course, but a narrative, although there is the germ of theological reflection 
+specially in the Gospel of John and in some of Paul's letters. Paul, indeed, 
+wants Christians to be able to answer back to anybody who exalts himself against 
+the knowledge of God (2 Cor 10:4). Peter, on the other hand, wants followers to 
+be ready to provide answers to those who ask for a reason (\gw{λόγον}) 
+(1 Pt 3:13). In a way the New Testament specially encourages the study of faith 
+by reason. There is also a seed in the special relation between the Old and the 
+New Testament, in particular in the realm of Law. Since the beginnings of 
+Christianity it became obvious that there are contradictions between the two 
+that must be resolved for the doctrine to be coherent. 
+
+Early on, then, there was a need for theological activity. Tertullian, at the 
+turn of the 3\rd\ century wrote on the nature of God actually coining he word 
+\lw{trinitas} and already in 231, the Greek scholar Origen the first 
+systematic exposition of theology, the \worktitle{Peri archōn}. His views, 
+however, were considered unorthodox after the Council of Chalcedon in 451, and 
+his works were not directly influential in the Middle Ages. By the 5\th\ 
+century, in any case, the Christian world had \Augustine, who, as we saw 
+already, engaged actively in thought about the Christian faith and as a matter 
+of fact set the parameters that would rule the practice of \lw{pagina 
+sacra} activity for the next six centuries.%
+   \footnote{On \Augustine, Rosemman offers a quick and, I think,  misleading 
+   interpretation of \worktitle{De doctrina christiana}. Rosemann emphasizes 
+   love as the virtue or feature that holds theology together, whereas given 
+   Augustine's prominent Neoplatonic commitments, it seems that it should be 
+   the search for wisdom what has that role.}% 
+\Augustine\ did not make an effort to systematize his views and work on the many 
+issues that may have arisen out of them. Even though \Augustine\ probably has 
+the most clearly unified views on faith having founded his thought on the fairly 
+mature Plotinian system, his intention was also clearly not to address every 
+single doctrinal issue. \Augustine, as many others before and after him, 
+addressed primarily the issues for which there was a threat to the Catholic 
+faith. 
+
+Others, however, saw the need to at least have a place where to readily stock up 
+on ideas by prominent thinkers. These are the precursors of doctrinal 
+systematization and thus precursors to Lombard. The tradition can be said to 
+start with Prosper of Aquitaine, a younger contemporary of Augustine who 
+collected Augustine's views on a variety of topics in the \worktitle{Liber 
+sententiarum Sancti Augustini}. These \lw{sententia} (opinions) are not 
+ordered in a methodic way though.  A more important predecessor of Lombard's 
+work is Isidore of Seville's \worktitle{Sententiae}: three books devoted to 
+dogmatics and ethics. This book was widely read throughout the Middle Ages.  
+Rosemann also mentions Boethius in connection with his translations and 
+commentaries on Aristotle. Boethius' short theological treatises are considered 
+important. Also important, although not read in the Latin world until the mid 
+11\th\ century was the Greek writer John of Damascus and his \worktitle{Source 
+of Knowledge}, written sometime between 700 and 750. This was enormously 
+influential after it was translated into Latin in the 1150s. This book is a 
+theological compilation of earlier Greek Fathers, and Lombard had access to it.
+
+In the 11\th\ century we see another major development in the systematization 
+efforts, now in the codification of Canon Law, first by Bernold of Constance 
+(c.1050-1100) and then more prominently by Ivo of Chartres (c.1040-1115). 
+Bernold provided a theoretical overview of his method in which he explains how 
+to reconcile diverse opinions and rulings by looking at the wider context in 
+which they were given. Ivo of Chartres makes similar points in the preface to 
+his \worktitle{Decretum} and \worktitle{Panormia}, which circulated 
+independently as \worktitle{De consonantia canonum}. This work was more 
+influential; Abelard and, through him, Lombard, depended heavily on Ivo. The 
+other important figure of the 11\th\ century is Anselm of Canterbury. His 
+contribution to theology comes in the form of rational speculation under the 
+guidance of faith.
+
+The last major development in this narrative comes in the 11\th\ century. This 
+century is characterized mainly by the professionalization of theology in the 
+form of specialists (masters) teaching at their own schools. The typical master 
+was neither a bishop nor a monk; he was in a way dissasociated with the life of 
+the Church and his job was indeed to study and teach the sacred doctrine. In the
+master thus the intellectual penetration of faith assumed an autonomous role. It
+is from the needs of the masters that Lombard's \worktitle{Sentences} arise.  
+Masters needed research tools and textbooks. The epitome of the former they had 
+in the \textit{Glossa ordinaria}, the complete text of the Bible with marginal 
+and interlinear notes derived from a large number of patristic and medieval 
+sources. There were several different \textit{Glossa}, and the genre was 
+actually initiated back in Carolingian times. As for textbooks, the two main 
+representatives, and actually the models that Lombard attempted to bring 
+together, were Hugh of St. Victor's \textit{De sacramentis christianae fidei} 
+and Abelard's \textit{Sic et non}. Hugh's work follows the narrative of the 
+Bible, from Creation to Apocalipsis, as the different theological issues are 
+expounded. It was not very successful as a textbook because it did not provide 
+sources for quotations and did not usually follow the dialectic method of 
+presenting views in favour and against in the issues. Abelard's work, on the 
+other hand, did not follow the order of the Bible, and it was strictly a 
+presentation of contradictory views without the solution. It was meant 
+specifically as an exercise book in the dialectic method. He does not provide an
+explanation of the theological structure in that work, but he did in his 
+\textit{Theologia}, which we will see in the next section. 
+
+At about the same time as Lombard, Robert of Melun (Melun was one of the schools
+near Paris) provided a theology system that tried to capture both Hugh's and 
+Abelard's approaches. He followed Hugh's order of exposition based on the Bible, 
+but did provide references and contrary views. He never completed the work.
+
+\subsection{Lombard}
+
+The rise of theology culminates with the work of Peter Lombard and the subsequent enthronization of the \worktitle{Sentences} as the standard textbook for the teaching of the Christian doctrine. The first version of the four-book work was completed in 1154, after Lombard went to Rome. There he had access to a translation of the John of Damascus' work and indeed the \worktitle{Sentences} includes passages from it. Lombard then taught with this first edition in 1156 and 1157 adding numerous marginal notes. The second edition appeared and was copied in 1158. The main sources for Lombard are the \textit{Glossa ordinaria}, Lombard's own original glosses, Augustine, Hugh of St. Victor and Abelard. Augustine stands out among all the rest. He gets more than a thousand references, specially from \textit{De doctrina christiana}, \textit{Of 83 Questions}, \textit{Retractationes} and \textit{Enchiridion}. \textit{De trinitate}, on the other hand, does not seem to be included.
+
+In the preface to the \textit{Sentences}, Lombard uses Augustine's distinction things/signs (\lw{res}/\lw{signa}) as the basis for his arrangement of theological material. All doctrine, he says, is of things or of signs. Things, he continues introducing yet another Augustinian distinction, are either to be used (\lw{uti}) or to be enjoyed (\lw{frui}). The only thing worthy of being enjoyed in itself is triune God, which is the subject matter of Book I. Other things, namely human beings and angels, are to used as a means on the journey to God and enjoyed, though only 'through God'. Everything related to them is treated in Book II: the creation of man, the Fall, sin, etc. The Incarnation is the first subject in Book III. For this Lombard does not provide a good account of how it plays out in the things/signs and enjoyment/use distinctions.\footnote{Rosemann claims, however, that we can easily provide an adequate explanation: ``in becoming flesh, God deigned to be not only the ultimate end of human existence, but the road to that end as well; in other words, God, the ultimate object of enjoyment, allowed himself to be used for human salvation.'' This is, continues Rosemann, Augustine's own presentation of the Incarnation in \textit{De doctrina christiana} \cite[61]{rosemann})}. The virtues complete the subject matter of Book III. Their status is controversial as there seems to be a disagreement between Ambrose and Augustine on their nature. Lombard solves the disagreement in the preface by say that virtues are not enjoyable in themselves, but things by which we enjoy: \lw{per virtutes fruimur, non eis} (Sentences, dist I, ch 3, n. 10). Book IV is about the sacraments, which are not things but signs, specifically signs of grace.
+
+Lombard, however, is not strict in his methodology and does not make an effort to show how the succession of topics actually plays out according to the Augustinian distinctions he established in the preface. At the beginning of Book III, indeed, he provides an alternative, ``rational'' structure to the work: the order of reason demands that after having explained the Trinity (in Book I) and the creation and fall of man (in Book II), we examine his redemption and the sacraments through which he is healed. According to Rosemann, this rational plan not only is compatible with the Augustinian plan, but also concords with the Abelardian way of structuring theology, namely by emphasizing rational considerations.\footnote{\Cite[61]{rosemann}. I don't think Rosemann makes a strong case for this assertion given that Lombard does not really explain what the reason behind the proposed sequence of topics is about. We would need to find out indirectly what Lombard may be talking about here when he talks about order of reason, and compare that to Abelard's notions.}
+
+Rosemann, in any case, admits that there is certainly a method playing out in the \worktitle{Sentences} but not a methodology, that is, a systematic reflection on method. However, Rosemann adds, it may be the case the Lombard deliberately left out any methodological considerations as a way of not giving in to the more avant-garde conception of theology as a science.\footnote{Insofar as science is ``knowledge consituted by means of a method that is itself the subject of critical reflection and control.'' \cite[63]{rosemann}.} The avant-garde would be represented by theologians such as Abelard and Gilbert de la Porrée, who had at their disposal an arsenal of Aristotelian distinctions.  In Rosemann's view, it is a fact that the transition of theology as \lw{pagina sacra} to science stalled in part due to the influence of Lombard and in part due to the inadequacy of the conceptual tools available at the time. Here Rosemann is using Marie-Dominique Chenu's idea that theology did indeed become a science in the 13th century, the century after Lombard. If theology adopted the scientific paradigm, he says, this "occurred precisely as the result of the availability of enhanced conceptual tools (through the discovery of the Aristotelian tradition) and their subsequent application to theology."\footcite[63]{rosemann}
+
+Rosemann gives evidence to support his view that Lombard was actually trying to distance himself from those thinkers. Lombard uses derogatory language when he refers to them: garrolous reasoners, those presumptuous of their abilities and other similar expressions. At times, also, Lombard gives up on trying to solve some issues and presents them as beyond the capabilites of man, thereby implying that reason alone is not sufficient to justify religious tenets. In Rosemann's view, one of the reasons why the \worktitle{Sentences} was succesful as a textbook was precisely that in it Lombard was not trying to force the material into a particular philosophical mold. This made it possible for later thinkers to use it as a collection of authorities on which to reflect.
+
+The other important feature of the \textit{Sentences} that contributed to its sucess was its consultation aids: a detailed table of contents and rubrics guiding the user through the arguments. Sometime between 1223 and 1227 Alexander of Hales, the first master to use the \worktitle{Sentences} rather than the Scriptures for theological lectures, added more structure by dividing the large number of chapters in each book (210 in Book I, for instance) into topical units called distinctions. Alexander of Hales was certainly not the first master to use the work, only the first one we are certain that use it \emph{exclusively} for teaching. This comes some 70 years after Lombard's first version of the \worktitle{Sentences} and so by this time it was already clear that theology was a discipline with its own doctrinal system and not immediate reflection on the sacred texts.
+
+The last feature Rosemann notes is Lombard's attempt at reconciling authorities. The function of the \worktitle{Sentences} is not only to collect the opinions of the authorities and to order them systematically, but also to reconcile those opinions when there seems to be incompatibilities (this Lombard says in the preface). The reconciliation procedure is the same used and codified by Abelard in \textit{Sic et non}: terminological differences between Greek and Latin fathers, disctinction between an author's opinion and reports of that opinion by others, the appropriate context and applicability of the opinions, and, in last resort, the weight and trustworthiness of the authorities involved.
+
+\subsection{Commentaries on the \worktitle{Sentences}}
+
+In the next couple of sections, I will turn to Abelard and Hugh of St. Victor, the main influences to Lombard. However, it is important to note at this point, because it is important for the development of the notion of \scientia, the tradition of commentaries of the \worktitle{Sentences} that started shortly after its publication. Rosemann argues that this tradition follows the same pattern of development John Marenbon said that the \textit{Categories} and \textit{De interpretatione} followed in the Early Middle Ages (these two works were available with translations and commentaries by Boethius). The pattern is basically one of progressive distance from the actual text:
+\begin{enumerate}
+\item  Abbreviation, extraction and compilation from the original work and from commentaries to it: this is the stage of getting acquainted with the text. (Carolingian times)
+\item  Literal commentaries: close reading of Aristotle using different techniques to put forth the arguments. These start in the 12th century.
+\item  Composite commentaries: the same approach of the literal commentaries with sections devoted to the treatment of problems often presented as \textit{quaestiones}.
+\item  Problem-question commentaries: away from literal exegesis and onto the discussion of philosophical issues.
+\end{enumerate}
+It seems that the same pattern developed when the new wave of Aristotelian texts hit the Latin world from the mid 12th century onwards.
+
+The first phase is represented by numerous abbreviations of the \textit{Sentences}, notably one known as \textit{Filia Magistri}, created sometime between 1232 and 1245, most likely by Hugh of St. Cher. This was meant to be an study aid. Another representative of this early phase is the gloss. Glosses start to appear as early as 1175. The first one, wrongly attributed to Peter of Poitiers, already includes a prologue in which the author reflects on the meaning, limits and method of theology. 
+
+The next stage is that of the commentary, inaugurated by Stephen Langton (died 1228). This commentary presupposes knowledge of the text of the \textit{Sentences} and gives short summaries of the sections plus discussions of problems, including refutations of Lombard's positions. The whole commentary, however, only takes about 150 pages. Rosemann says it is a primitive example of a commentary.
+
+The next important commentary, which already takes us into the 13\th\ century, is that of Alexander of Hales, which is actually titled a gloss. It includes the new superstructure of distinctions over chapters and paragraphs that explain the line of thought that ties those distinction togethers. These explanatory paragraphs are called \textit{divisiones textus} and presuppose comprehension of the text. In them Alexander discusse issues, attempts to resolve difficulties and replies to objections. Alexander also provides an introduction to the book.
+
+Next in line are Bonaventure and Aquinas, who wrote commentaries roughly at the same time. Bonaventure is the first to place the \textit{Sentences} in terms of Aristotelian sciences. In the \emph{Prooemium} he introduces the work in relation to Aristotle's four causes. At the end of this introductory chapter, he poses four \textit{quaestiones} regarding the status of theology as a science, its subject, its \textit{modus procedendi}, whether it is a speculative or a practical science. On to the text of the \textit{Sentences}, Bonaventure provides \textit{divisiones textus}, \textit{quaestiones} and \textit{dubia circa litteram} (doubts about the meaning of Lombard's words). Aquinas's commentary follows the same structure as Bonaventure's. Aquinas, however, meant to write a second version of the commentary in the 1260s but gave up and decided to write the \textit{Summa theologica} instead, thereby abandoning Lombard's structure altogether in favour of his own structural and methodological view of theology. The \textit{Summa} was never as influential as the \textit{Sentences} in the teaching of theology.
+
+In the next wave of commentaries, the authors distance themselves more and more from the actual text of the \textit{Sentences}. The two major representatives of this phase are Duns Scotus's \textit{Ordinatio} and Ockham's \textit{Scriptum}  Both authors provide basically only \textit{quaestiones}, often having only a vague relationship with the issues brought up by Lombard. The prologues of both works are massive (237 pages for Scotus, 370 for Ockham) and are essentially treatises on theology itself. Furthermore, the \textit{quaestiones} in them are more complex than those of Aquinas and Bonaventure. They are position-oriented rather than argument-oriented as after many years of development the arguments become much more complex and sophisticated and it is now the positions in the authors that need to be analyzed and explained (Rosemann takes this idea from Friedman). 
+
+After Ockham the commentaries are much further removed from the text, and the genre diminishes in prominence. Some authors are Marsilius of Inghen, with a commentary from 1392-96, and Robert Holcot (died 1349). Up to here, Rosemann claims, the development follows Marenbon's pattern. There hasn't been much study of commentaries from the next centuries, but it seems that at some point the trend actually reversed and commentators went back to Lombard's text. Important commentators from this phase are Denis the Carthusian (1460s), Jon Hus, John Capreolus and even Martin Luther (around 1510).
+
+\section{Abelard}
+
+\section{Hugh of St. Victor}
+
+Starting from around mid 11\th\ century in Paris we start to see the beginnings of an educational structure that will culminate a century to a century and a half later in the foundation of a properly named university. Traditionally, as said earlier, schools would be associated with monasteries or big churches. This is still the case in Paris, but now the key difference is that they are all in or around a town or small city that starts to depend to some extent on this new population of students that come from all over the place. The formation of the university is indeed, as many authors point out, a phenomenon tightly related to the development of urban life. In Paris, several schools are founded in this period with students sometimes moving from one to the other following a popular teacher. The school of Notre Dame is well known. Peter Abelard studied there under Guillaume de Chapeaux,  who was the school's first important master. Another important school was the one at St. Geneviève, where Abelard also taught for a while and which after the 1150s became a center of Augustinian thought in response to the new influx of Aristotelian ideas. The third important school was at St. Victor, which was founded by the very same Guillaume de Chapeaux of Notre Dame in 1108.  Here we find \Hugh\ as a master several years later.\footnote{For a more detailed but still succinct account of the developments in Paris in this period see \cite[129--133]{pedersen}}
+
+\comment{The rest of this section needs more work. It seems that this work is key to understanding the true extent of the shift to Aristotelianism since it incorporates Aristotelian ideas just prior to the first contact with translations.}
+
+Following the tradition of general introduction and guides to the liberal arts that we have reviewed in this chapter, the \worktitle{Didascalicon} of \Hugh\ of St. Victor is meant to be a guide on reading. If for \Augustine, \Boethius\ and others influenced by Neoplatonism, wisdom and knowledge were to be attained via a study of universal entities, specially of numbers and other mathematical objects, for Hugh the double way to knowledge is now reading and meditation. Sure for him the body seems to be a sort of nuisance on the way to wisdom, but in contrast with the other authors, now it does not seem enough just to be knowledgeable of numbers or mathematics but one needs also to read about a wider variety of subjects. One needs also to meditate but the work, he announces in the preface, concentrates on the first way to wisdom and is thus only about reading: what to read, in what order and how. This he will explain separately for the two main subdivisions of things worthy of reading, namely secular and divine writings. In order to accomplish this for the case of secular readings, the first part of the work is an enumeration, description and division of the arts, ``from the peak down to its lowest members.''\footnote{This comes in section \comment{XX} in the standard Latin edition of the work: \cite{hugh-latin}. There is an English translation as well: \cite{hugh}.} We already note a striking change of aim and strategy with respect to the other authors. Whereas \Martianus\ and \Boethius\ will be happy just to deal with the seven liberal arts, \Hugh\ will now include a much larger number of disciplines. However, he will not only list them as \Isidore, he will in fact provide a hierarchical catalogue of them. With this \Hugh\ is in fact inaugurating a tradition in the West, that of the catalogue of the sciences, that will be following, as we will see in the next chapter, by Gundissalinus now under the influence of newly acquired Aristotelian thought.
+
+That catalogue of the arts is then main aim of Part I of the \worktitle{Didascalicon}, which is composed of three books. Before listing the different disciplines in book II and talking about their authors and on the proper way of reading in book III, however, \Hugh\ devotes book I to providing a general account of how knowledge and nature work.\footnote{I summarize Book I in the following two paragraphs. \Cite[47--60]{hugh}} He starts by saying that arts are nothing but the product of the pursuit of wisdom, and that pursuit of wisdom, is what is called philosophy. This is all possible because man is endowed with reason in the soul. There are three main faculties in the soul according to \Hugh: one that deals with the operation of the body, another one that is responsible for sense perception and reason, which is the mind properly speaking. Philosophy uses reason then, as is about finding the most comprehensive ideas about all things human and divine. As there are different faculties in the soul, there are also different aims of knowledge. This is what gives rise to the theoretical, the practical and the mechanical arts. The mechanical, since they have to do with the satisfaction of bodily needs, is the lowest of the three. 
+
+There are also three different kinds of being in \Hugh's view: God, eternal substances and perishable substances. The latter dwell in the sublunary world just as man, but man is not wholly perishable. Man is subject to necessity, just as any other perishable substance, but he is also immortal insofar as he is related to the divinity by his capacity to contemplate the truth and to practice virtue. This double nature of man results in another way of subdividing the pursuit of knowledge for \Hugh: that part of man striving for truth and virtue corresponds to \lw{intelligentia}, whereas the part that concentrates on human works is properly called \lw{scientia}. \Hugh's denomination sound strange given that usually \lw{scientia} is used as a synonym for scientific knowledge in later literature; he is, however, working before Aristotelian ideas made an impact. 
+
+The second book in part I contains the descriptions of the different disciplines. Relevant for our discussion here is mainly section 4 on mathematics in general. It is evident in this section that he is using some of the works reviewed in this chapter as his main sources, but with some slight differences. It seems indeed that \Hugh\ is acquainted with some basic Aristotelian notions and is now willing to use them in his explanations, however concise those may be. For instance, mathematics is for him about abstract quantity, but now he adds that this means that quantity is separated from matter and accidents.\footnote{\Cite[63, part I, book II, §4]{hugh}. In this section he quotes Boethius.} The idea is that in mathematics reason only concentrates in quantity with regards to basic properties and comparisons such as whether two quantities are equal or unequal. Following \Boethius, he continues saying that quantity can be thought of as multitude or magnitude and this distinction is what entails the subdivision of the quadrivium in two disciplines dealing with multitude, arithmetic and music, and the other two with magnitude, geometry and astronomy. After a brief excursus into the meaning of number 4 (numerology did not perish in all those centuries), he provides very short descriptions of the kinds of concepts involved in the quadrivium disciplines, for instance that arithmetic deals with odd and even, geometry with lines and planes, and so on. Here he does not say anything new.
+
+Near the end of book II, however, he introduces a division of the sciences that is not really discussed or highlighted in previous works in the and that comes from Aristotle: the tripartite division of knowledge into theological, mathematical and physical. \Hugh\ claims to have taken this from \Boethius. What is novel is effectively that he decided to mention it. 
+
+Another novelty that comes also at the end of this book is that he includes also mechanical disciplines, although, again, he says that those represent a sort of adulterated knowledge because of their relation to the body. He describes seven mechanical arts, from fabric-making to hunting to theatrics. The disciplines of the trivium are discussed after those.\footnote{Book II of part I is in \cite[61--82]{hugh}. Book III includes a summary of the division discussed in book II, an account of the main authors for the different disciplines and discussion on the necessary to study and read well.} Mentioning the mechanical arts is, of course, not new. \Isidore, for one, had already provided descriptions of those arts in his encyclopedia. Students were surely acquainted with that work. \Hugh, nevertheless, seems to be the first one to try to fit all those disciplines into a coherent structure and thus to account for what was evident to everybody, that the seven liberal arts were not the only thing when it came to knowledge. What we see mainly in \Hugh\ is indeed a preoccupation to fit all these bits and pieces together in a coherent overview that is for the most part devoid of the allegorical features of one \Martianus. As we will see in the next chapter, once the West gets in contact with newly found sources, others will follow \Hugh\ in this quest for general explanations and theories.

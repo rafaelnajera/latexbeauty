@@ -1,0 +1,13 @@
+\chapter{Before Aristotle}
+
+In this chapter I study the notion of \scientia\ in the 11\th\ and early 12\th\ centuries, before the translation of the works of Aristotle. The most important 
+intellectual development in 
+this time period is the rise of theology as a 
+discipline that incorporates the intellectual tools of 
+logic and dialectics. 
+We can consider the publication and subsequent generalized adoption of the \worktitle{Sentences} of Peter Lombard in the 1150s as the culmination of this 
+process. The first section describes this process mostly in historical terms, 
+providing thus the background for the study in later sections of 
+the actual 
+philosophical content of texts by the main figures of the period: Abelard and Hugh of St. Victor.
+
